@@ -1,0 +1,42 @@
+Manual book web aplikasi hotel hebat
+
+ketika User mengunjungi website hotel Hebat
+maka User akan diminta untuk Login terlebih dahulu
+apabila belum memiliki akun maka diharapkan melakukan 
+registrasi terlebih dahulu
+
+ketika User telah melakukan Login dan berhasil
+maka muncul sebuah LandingPage yang didalamnya akan
+memberikan informasi tentang hotel hebat ini
+
+apabila User melakukan scroll kebawah maka akan ditampilkan
+kamar yang tersedia apa bila User klik info kamar maka 
+akan ditampilkan info kamar dan anda dapat 
+melakukan reservasi atau pemesanan diform yang telah 
+disediakan
+
+apabila User telah melakukan reservasi atau pemesanan
+kamar hotel maka halaman web akan berpindah ke User 
+dashboard dimana anda dapat melihat status pemesanan
+anda 
+
+apabila status anda Accept maka anda dapat mencetak
+hasil pemesanan 
+apabila anda klik home dinavbar diatas maka itu akan 
+mengarahkan ke User dashboard 
+
+ketika anda login sebagai petugas resepsionis maka 
+akan muncul sebuah LandingPage yang didalamnya akan
+memberikan informasi tentang hotel hebat ini
+
+namun untuk petugas tidak diperbolehkan untuk melakukan
+reservasi apabila anda klik home maka anda halaman 
+web anda akan muncul resepsionis dashboard yang dimana
+anda dapat melihat dan melakukan Accept untuk semua 
+tamu yang telah melakukan reservasi
+
+klik centang untuk mengAccept reservasi anda dapat
+melakukan search atau pencarian untuk saat ini hanya 
+bisa pencarian berdasarkan check_in dan status
+
+Copyright created by farid fadillah permana
